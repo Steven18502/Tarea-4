@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Tarea4.dir/main.cpp.o CMakeFiles/Tarea4.dir/Genetico.cpp.o CMakeFiles/Tarea4.dir/Fibonacci.cpp.o  -o Tarea4 

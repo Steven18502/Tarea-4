@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/steven/CLionProjects/Tarea4/Fibonacci.h
+iostream
+-
+
+/home/steven/CLionProjects/Tarea4/Genetico.cpp
+Genetico.h
+/home/steven/CLionProjects/Tarea4/Genetico.h
+
+/home/steven/CLionProjects/Tarea4/Genetico.h
+vector
+-
+random
+-
+
+/home/steven/CLionProjects/Tarea4/main.cpp
+iostream
+-
+Fibonacci.h
+/home/steven/CLionProjects/Tarea4/Fibonacci.h
+Genetico.h
+/home/steven/CLionProjects/Tarea4/Genetico.h
+vector
+-
+
